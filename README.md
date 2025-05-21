@@ -46,3 +46,7 @@ Relay Pin	Arduino Pin
 S	D10
 
 This assumes the relay is active-low: High turns it on, LOW turns it off
+![2025-05-21 12_48_37-Photo - Google Photos](https://github.com/user-attachments/assets/84c00394-0e55-435e-b75d-827f1b41d3b0)
+
+![otto switch](https://github.com/user-attachments/assets/839158e8-039c-4de1-b37b-7688c04dc1d9)
+
